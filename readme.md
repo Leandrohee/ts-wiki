@@ -71,3 +71,6 @@ yarn add @types/node -D         //Type dependence related to ts-node
 - dev (development -> it runs index.ts with nodemon)
 - build (it compile TS to JS)
 
+## Creating a .gitignore and starting a git repository
+
+- create a .gitignore
